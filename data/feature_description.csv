@@ -1,0 +1,39 @@
+Opis danych:;
+id;
+Marka;
+Model;
+Sztuk_sprzedanych_pierwsze_30_dni;sprzeda¿ sprzedawcy A, to modelujemy
+cena_wysylka30A;œrednia cena sprzedawcy A z wysy³k¹
+Data_wystawienia_aukcji;
+CA_NAME_5;kategoria
+CA_NAME_5;parametr aukcji sprzedawcy A
+bld_30;parametr aukcji sprzedawcy A
+hli_30;parametr aukcji sprzedawcy A
+dpg_30;parametr aukcji sprzedawcy A
+sa_30;parametr aukcji sprzedawcy A
+48h_30;parametr aukcji sprzedawcy A
+sma_30;parametr aukcji sprzedawcy A
+bgn_30;parametr aukcji sprzedawcy A
+top_seller_sales_30m;sprzeda¿ najlepszego sprzedawcy na MP (platforma Allegro) , w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+unique_sellers30m;liczba sprzedawców którzy sprzedali produkt w okresie 30dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity30m;sprzeda¿ produktu na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity6030m;sprzeda¿ produktu na allegro.pl  w okresie 30-60 dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity9060m;sprzeda¿ produktu na allegro.pl  w okresie 60-90 dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity12090m;sprzeda¿ produktu na allegro.pl  w okresie 90-120 dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity150120m;sprzeda¿ produktu na allegro.pl  w okresie 120-150 dni przed wystawieniem produktu przez sprzedawcê A
+sum_tr_quantity180150m;sprzeda¿ produktu na allegro.pl w okresie 150-180 dni przed wystawieniem produktu przez sprzedawcê A
+cena_z_wysylka30m;œrednia cena sprzeda¿y produktu na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_fea;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_bld;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_hli;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_dpg;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_sa;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_48h;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_sma;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+mp_bgn;paramter aukcji- œrednia wa¿ona z wszystkich aukcji oferuj¹cych dany produkt na allegro.pl w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+top3_sales_30m;sprzeda¿ 3 najlepszych sprzedawców na MP (platforma A) , w okresie 30 dni przed wystawieniem produktu przez sprzedawcê A
+ILE_AUKCJI_W_DNIU_DEBIUTU_FIRMA;liczba aukcji z produktem na MP w dniu wystawienia przez sprzedawcê A
+ILE_AUKCJI_Z_WYZSZA_CENA_W_DNIU_DEBIUTU_FIRMA;liczba aukcji z produktem na MP w dniu wystawienia przez sprzedawcê A - z wy¿sz¹ cen¹ od sprzedawcy A
+ILE_AUKCJI_Z_ROWNA_CENA_W_DNIU_DEBIUTU_FIRMA;liczba aukcji z produktem na MP w dniu wystawienia przez sprzedawcê A- z cen¹ tak¹ jak sprzedawca A
+ILE_AUKCJI_Z_NIZSZA_CENA_W_DNIU_DEBIUTU_FIRMA;liczba aukcji z produktem na MP w dniu wystawienia przez sprzedawcê A - z nisz¹ cen¹ od sprzedawcy A
+sez_IND;indeks sezonowoœci
