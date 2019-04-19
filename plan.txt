@@ -1,0 +1,16 @@
+1. Sprawdzić wszystkie zmienne - czy warto zostawić
+2. Konwersja na numeryczne.
+3. Wybrać zmienne do dalszego modelowania - random forest feature importance. 
+4. Modele liniowe:
+	4.1 Konwersja zmiennych do rozkładu normalnego.
+	4.2 Podział valid - trening. 
+	4.3 W zbiorze treningowym usunąć outliery.
+	4.4 Budowa 3 modeli liniowych z CV i log-transformacją targetu - mae.
+	4.5 Sprawdzenie na validzie
+5. Modele nieliniowe:
+	5.1 Podział valid - trening
+	5.2 Drzewo z CV i wizualizacją (x2 bez outlierów i z outlierami)
+	5.3 Sprawdzenie na validzie (x2)
+5. Proste modele nieliniowe - może tylko drzewo.
+5. Weryfikacja po średnim rmse. 
+6. Zaproponować model i przestawić jego rezultaty - sprawdzić stabilność.

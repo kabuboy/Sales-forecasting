@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="ILE_AUKCJI_W_DNIU_DEBIUTU_FIRMA_log <= 5.715\nmse = 10774.902\nsamples = 159\nvalue = 57.245"] ;
+1 [label="top_seller_sales_30m_log <= 6.145\nmse = 7441.944\nsamples = 158\nvalue = 52.62"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="sez_IND_log <= 1.392\nmse = 3992.258\nsamples = 156\nvalue = 47.071"] ;
+1 -> 2 ;
+3 [label="top_seller_sales_30m_log <= 3.624\nmse = 2697.697\nsamples = 155\nvalue = 44.161"] ;
+2 -> 3 ;
+4 [label="sez_IND_log <= 1.358\nmse = 1653.002\nsamples = 112\nvalue = 32.375"] ;
+3 -> 4 ;
+5 [label="mse = 1066.27\nsamples = 108\nvalue = 28.731"] ;
+4 -> 5 ;
+6 [label="mse = 7458.688\nsamples = 4\nvalue = 130.75"] ;
+4 -> 6 ;
+7 [label="sez_IND_log <= 0.677\nmse = 4114.492\nsamples = 43\nvalue = 74.86"] ;
+3 -> 7 ;
+8 [label="mse = 930.25\nsamples = 2\nvalue = 199.5"] ;
+7 -> 8 ;
+9 [label="mse = 3475.049\nsamples = 41\nvalue = 68.78"] ;
+7 -> 9 ;
+10 [label="mse = 0.0\nsamples = 1\nvalue = 498.0"] ;
+2 -> 10 ;
+11 [label="time_untill_christmas_log <= 4.158\nmse = 86730.25\nsamples = 2\nvalue = 485.5"] ;
+1 -> 11 ;
+12 [label="mse = 0.0\nsamples = 1\nvalue = 191.0"] ;
+11 -> 12 ;
+13 [label="mse = 0.0\nsamples = 1\nvalue = 780.0"] ;
+11 -> 13 ;
+14 [label="mse = 0.0\nsamples = 1\nvalue = 788.0"] ;
+0 -> 14 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
